@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1527536342 source:c:\users\aumaza_mecon\documents\test\funciones1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+
+1527536337 .h"
+
+1527536337 source:c:\users\aumaza_mecon\documents\test\funciones1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+
+1527536343 c:\users\aumaza_mecon\documents\test\funciones1\funciones.h
+
+1527536405 source:/mnt/sda2/Users/aumaza_mecon/Documents/TEST/funciones1/main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+
+1527536343 /mnt/sda2/Users/aumaza_mecon/Documents/TEST/funciones1/funciones.h
+

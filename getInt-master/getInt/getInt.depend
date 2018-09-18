@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1536020153 source:d:\a. maza - test\getint\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1536080847 source:c:\users\aumaza_mecon\documents\test\getint-master\getint\main.c
+	<stdio.h>
+	<stdlib.h>
+

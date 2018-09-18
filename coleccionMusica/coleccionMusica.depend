@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1526044306 source:c:\users\aumaza_mecon\documents\test\coleccionmusica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1526053328 c:\users\aumaza_mecon\documents\test\coleccionmusica\funciones.h
+
